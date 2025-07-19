@@ -1,8 +1,8 @@
-             # Fundamentals of Programming – Personal Project Overview
+                                         Fundamentals of Programming – Personal Project Overview
 
 This repository is a full collection of my coding work for the Fundamentals of Programming course. It includes all weekly labs, homework, and exam exercises — everything I coded during the semester.
 
-Through these projects, I learned how to:
+# Through these projects, I learned how to:
 
 - Think through problems step by step and turn ideas into working code
 
