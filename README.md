@@ -1,21 +1,21 @@
-Fundamentals of Programming
+             # Fundamentals of Programming – Personal Project Overview
 
-This repository contains my full practical work for the Fundamentals of Programming course. I completed all weekly assignments, homework, and exam exercises using the C programming language.
+This repository is a full collection of my coding work for the Fundamentals of Programming course. It includes all weekly labs, homework, and exam exercises — everything I coded during the semester.
 
-During this course, I learned how to:
+Through these projects, I learned how to:
 
-Write clean, functional C code from scratch
+- Think through problems step by step and turn ideas into working code
 
-Use control structures (if, switch, loops) for logic flow
+- Use conditionals and loops to build program logic
 
-Work with functions to structure and reuse code
+- Write clean, modular code using functions
 
-Handle arrays, strings, and structured data using struct
+- Work with arrays, strings, and structures to organize data
 
-Apply pointers and dynamic memory allocation effectively
+- Manage memory using pointers and dynamic allocation
 
-Understand recursion and solve classic algorithm problems
+- Solve classic problems with recursion
 
-Organize projects using multiple files and headers
+- Split code into multiple files and use headers like in real-world projects
 
-Through these exercises, I developed practical skills in problem-solving, algorithmic thinking, debugging, and memory management.
+Every piece of code here helped me move from beginner to writing solid, readable C programs with a better understanding of how computers actually work.
